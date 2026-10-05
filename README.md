@@ -1,4 +1,4 @@
-# PCCST503 — Assignment 2
+# PCCST503 Assignment 2
 
 ## Design of a Vector Embedding for Capability Composition
 
@@ -6,11 +6,11 @@
 
 | Field | Details |
 |---|---|
-| Student name | **[Nayana Shaji Mekkunnel]** |
-| Roll number | **[50]** |
-| **[s5 CSE]** |
+| Student name | **Nayana Shaji Mekkunnel** |
+| Roll number | **50** |
+| Semester | **S5 CSE** |
 | Course code | PCCST503 |
-| Assignment | Assignment 2 — Design of a Vector Embedding for Capability Composition |
+| Assignment | Design of a Vector Embedding for Capability Composition |
 
 ## Project overview
 
